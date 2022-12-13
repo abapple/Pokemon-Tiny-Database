@@ -16,7 +16,7 @@ import java.util.Queue;
 
 import java.util.Scanner;
 
-public class PokemonMini {
+public class FPSGameDatabase {
 
   public static void main(String[] args) {
 
